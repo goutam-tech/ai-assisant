@@ -1,0 +1,8 @@
+{
+  "name": "AI ASSISANT",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "a438f398"
+}
